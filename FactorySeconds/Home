@@ -1,0 +1,261 @@
+<!doctype html>
+
+<html lang="en-US">
+
+	<head>
+
+<!-- Hotjar Tracking Code for http://www.factoryseconds.org.uk -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:191801,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+
+		<meta charset="UTF-8">
+
+		<title>Factory Seconds.</title>
+
+
+		<link rel="stylesheet" media="all" href="http://factoryseconds.org.uk/wp-content/themes/scherzo/style.css">
+
+		<link rel="pingback" href="http://factoryseconds.org.uk/xmlrpc.php">
+
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+
+		<meta name="viewport" content="width=device-width, maximum-scale=1.0">
+
+
+		<link rel='dns-prefetch' href='//html5shiv.googlecode.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Factory Seconds. &raquo; Feed" href="http://factoryseconds.org.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Factory Seconds. &raquo; Comments Feed" href="http://factoryseconds.org.uk/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/factoryseconds.org.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.2"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://factoryseconds.org.uk/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://html5shiv.googlecode.com/svn/trunk/html5.js?ver=4.6.2'></script>
+<script type='text/javascript' src='http://factoryseconds.org.uk/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://factoryseconds.org.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://factoryseconds.org.uk/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://factoryseconds.org.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://factoryseconds.org.uk/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 4.6.2" />
+<link rel="canonical" href="http://factoryseconds.org.uk/" />
+<link rel='shortlink' href='http://factoryseconds.org.uk/' />
+<link rel="alternate" type="application/json+oembed" href="http://factoryseconds.org.uk/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ffactoryseconds.org.uk%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://factoryseconds.org.uk/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ffactoryseconds.org.uk%2F&#038;format=xml" />
+<style>
+
+				#site-header {
+					background-image: url(http://www.factoryseconds.org.uk/wp-content/uploads/2014/10/cropped-factory-seconds-header.png);
+				}
+
+				#site-title,
+				#tag {
+					color: #444444;
+				}
+
+			</style>
+
+
+	</head>
+
+	<body class="home page page-id-17 page-template-default">
+
+		<p class="accessibility"><a href="#content">Skip to content</a></p>
+
+		<div id="wrapper">
+
+			<a class="header-link" href="http://factoryseconds.org.uk" rel="index" title="Go to home page">
+
+				<header id="site-header" role="banner">
+
+					<div id="branding">
+
+						<!--<h1 id="site-title">Factory Seconds.</h1>-->
+
+						<p id="tag"></p>
+
+					</div> <!-- end #branding -->
+
+				</header>
+
+			</a>
+
+			<div id="content" role="main">
+
+
+	<article class="post-17 page type-page status-publish hentry">
+
+		<header class="entry-header">
+
+			<h1 class="entry-title">Home</h1>
+
+		</header>
+
+		<div class="entry-content">
+
+			<div class="g-plusone" data-annotation="inline" data-width="300"></div>
+<h3>Welcome to factory seconds.</h3>
+<p>This site is primarily to help and allow consumers to make better informed decisions when buying and shopping for factory seconds. It is possible to make considerable savings on consumer items. Find all the information you need to make sure you get the best deal and don&#8217;t get ripped off. Get the impartial advice about warranties and your consumer rights when buying factory seconds and ex displays.</p>
+<hr />
+<h3><span style="text-decoration: underline;"><strong>Update 10.05.12</strong></span></h3>
+<p>Still much more work to be done. Completing the guides, information and advice sections of the site. Hopeful you&#8217;ve found the site useful so far and saved money on your purchases. We hope to expand much more in the next few weeks as the site grows from a small sampling into hopefully something a little more like a tree.</p>
+<p>&#8220;Also we are looking for writers if anyone has anything they would like to write about please feel free to get in touch.&#8221;</p>
+<p style="text-align: right;"><em><span style="color: #333333;">Site Admin</span></em></p>
+<h3><strong>Update 07.06.12</strong></h3>
+<p>So it&#8217;s been a little while. Plenty in the pipeline for everyone looking to save money. The fridge section has been updated with even more information. You can now see which are the most efficient.</p>
+<h2></h2>
+<hr />
+<h2>Full listings and information on the biggest places to buy your items:</h2>
+<h3>Stores:</h3>
+<ul>
+<li>
+<h3><a title="Factory Seconds" href="http://www.factoryseconds.org.uk/factory-seconds/">General</a></h3>
+</li>
+<li>
+<h3><a title="Factory Outlet Stores" href="http://www.factoryseconds.org.uk/factory-outlet/">Fashion</a></h3>
+</li>
+<li>
+<h3><a title="Buy Cheap Games consoles" href="http://www.factoryseconds.org.uk/buy-factory-seconds/buy-cheap-games-consoles/">Games</a></h3>
+</li>
+<li>
+<h3><a title="Cheap Fridge Outlets" href="http://www.factoryseconds.org.uk/buy-factory-seconds/cheap-fridge/">Fridges</a></h3>
+</li>
+<li>
+<h3><a title="Refurbished iPhones" href="http://www.factoryseconds.org.uk/buy-factory-seconds/refurbished-iphone/">Refurbished iPhones</a></h3>
+</li>
+</ul>
+<hr />
+<p>We want people to be happy and get the best deal, saving money on all their favorite things. We think everyone should have the information and opportunity to make the best use of their money. The best information should be impartial. We hope you enjoy the site.</p>
+<hr />
+
+		</div>
+
+		<section id="comments">
+
+
+<!-- You can start editing here. -->
+
+
+
+			<!-- If comments are closed. -->
+
+			<p class="nocomments">Comments are closed.</p>
+
+		 <!-- if comments are open -->
+
+	 <!-- end if have comments -->
+
+
+		</section>
+
+	</article>
+
+
+</div> <!-- end content -->
+
+<div id="sidebar">
+
+
+	<aside id="universal" class="sidebar" role="complementary">
+
+		<section id="search-2" class="widgetContainer widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://factoryseconds.org.uk/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></section><section id="nav_menu-2" class="widgetContainer widget_nav_menu"><div class="menu-header-menu-container"><ul id="menu-header-menu" class="menu"><li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-17 current_page_item menu-item-84"><a href="http://factoryseconds.org.uk/">Home</a></li>
+<li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-87"><a href="http://factoryseconds.org.uk/factory-seconds/">Factory Seconds</a>
+<ul class="sub-menu">
+	<li id="menu-item-166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-166"><a href="http://factoryseconds.org.uk/factory-outlet/">Factory Outlet Stores</a></li>
+</ul>
+</li>
+<li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-75"><a href="http://factoryseconds.org.uk/buy-factory-seconds/">Buy Factory Seconds</a>
+<ul class="sub-menu">
+	<li id="menu-item-188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="http://factoryseconds.org.uk/buy-factory-seconds/cheap-fridge/">Cheap Fridge Outlets</a></li>
+	<li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a href="http://factoryseconds.org.uk/buy-factory-seconds/buy-cheap-games-consoles/">Games consoles</a></li>
+	<li id="menu-item-488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-488"><a href="http://factoryseconds.org.uk/buy-factory-seconds/refurbished-iphone/">Refurbished iPhones</a></li>
+</ul>
+</li>
+<li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-79"><a href="http://factoryseconds.org.uk/guides/">Guides</a>
+<ul class="sub-menu">
+	<li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80"><a href="http://factoryseconds.org.uk/guides/reasons-to-buy-factory-seconds/">Reasons to buy factory seconds</a>
+	<ul class="sub-menu">
+		<li id="menu-item-394" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-394"><a href="http://factoryseconds.org.uk/buy-factory-seconds/refurbished-iphone/">Refurbished iPhones</a></li>
+	</ul>
+</li>
+	<li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="http://factoryseconds.org.uk/guides/things-to-watch-out-for/">Things to watch out for</a></li>
+	<li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a href="http://factoryseconds.org.uk/guides/what-are-factory-seconds/">What are factory seconds?</a></li>
+	<li id="menu-item-345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-345"><a href="http://factoryseconds.org.uk/guides/interior-design-ideas/">Interior Design Ideas</a></li>
+</ul>
+</li>
+<li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-115"><a href="http://factoryseconds.org.uk/scams/">Scams</a>
+<ul class="sub-menu">
+	<li id="menu-item-138" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138"><a href="http://factoryseconds.org.uk/scams/designer-handbag-scam/">Designer Handbag Scam</a></li>
+</ul>
+</li>
+<li id="menu-item-91" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91"><a href="http://factoryseconds.org.uk/directory/">Directory</a></li>
+<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-77"><a href="http://factoryseconds.org.uk/contact/">Contact</a>
+<ul class="sub-menu">
+	<li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="http://factoryseconds.org.uk/contact/privacy/">Privacy</a></li>
+</ul>
+</li>
+</ul></div></section><section id="text-2" class="widgetContainer widget_text"><h1 class="widgetTitle">ad</h1>			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- cheap fridge square -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-5658586300241391"
+     data-ad-slot="8887338612"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</section>
+	</aside>
+
+
+</div>
+
+			<footer id="site-footer" role="contentinfo">
+
+				<script type='text/javascript' src='http://factoryseconds.org.uk/wp-includes/js/comment-reply.min.js?ver=4.6.2'></script>
+<script type='text/javascript' src='http://factoryseconds.org.uk/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/factoryseconds.org.uk\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://factoryseconds.org.uk/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.5.1'></script>
+<script type='text/javascript' src='http://factoryseconds.org.uk/wp-includes/js/wp-embed.min.js?ver=4.6.2'></script>
+
+				<small>&copy; 2017 Factory Seconds. &#8764; </small>
+
+			</footer>
+
+		</div> <!-- end wrapper ID -->
+
+	</body>
+
+</html>
